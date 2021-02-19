@@ -11,3 +11,7 @@ web-build/
 
 # macOS
 .DS_Store
+
+# DC
+env.js
+google-speech-to-text.json

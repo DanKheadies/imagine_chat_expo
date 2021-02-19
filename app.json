@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "imagine-chat-expo",
-    "slug": "imagine-chat-expo",
+    "name": "Imagine Chat",
+    "slug": "imagine-chat-for-the-kids",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,7 +11,7 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 5000
     },
     "assetBundlePatterns": [
       "**/*"
